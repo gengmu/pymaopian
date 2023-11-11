@@ -1,0 +1,4 @@
+ 
+# pymaopian module
+
+::: pymaopian.pymaopian
